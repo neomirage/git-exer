@@ -1,4 +1,6 @@
-Country와 함께 하는 Git 교실
+Country와 함께 하는 Git 교실Q
+
+- 3-way my
 
 - pop test
 - pull test
