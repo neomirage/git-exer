@@ -7,5 +7,5 @@ Country와 함께 하는 Git 교실Q
 - stash test
 
 
-- fast-forward test
+- fast-forward test / my merge test
 - 3-way other
