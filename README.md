@@ -8,4 +8,5 @@ Country와 함께 하는 Git 교실Q
 
 
 - fast-forward test / my merge test
+- fast-forward test / conflict test
 - 3-way other
