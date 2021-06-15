@@ -1,4 +1,5 @@
 Country와 함께 하는 Git 교실Q
+- feature/c reabase auto merge
 
 - 3-way my
 
