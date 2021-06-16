@@ -20,3 +20,5 @@ Country와 함께 하는 Git 교실Q
 - rebase fast-forward test'
 
 - main - rebase to merge
+
+- pr 실습
