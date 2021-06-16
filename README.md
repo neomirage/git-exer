@@ -1,4 +1,5 @@
-Country와 함께 하는 Git 교실Q
+Country와 함께 하는 Git 교실
+- cherry-pick exer
 - main & feature pr conflict
 - rebase 1.2.
 - rebase 3.
