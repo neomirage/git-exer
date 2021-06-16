@@ -1,5 +1,5 @@
 Country와 함께 하는 Git 교실Q
-- main pr conflict
+- main & feature pr conflict
 - rebase 1.2.
 - rebase 3.
 
